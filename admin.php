@@ -31,8 +31,6 @@
                     <li>Visits</li>
                     <li>Medications</li>
                     <li>Treatments</li>
-                    <li>Medya Yönetimi</li>
-                    <li>Kullanıcılar</li>
                 </uL>
             </div>
         </div>
